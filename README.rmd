@@ -1,0 +1,11 @@
+# OCT1
+October 1st
+
+
+
+```{r}
+tab1 <- read.table("/UCI_HAR_Dataset/test/X_test.txt')
+head(tab1)
+```
+
+
